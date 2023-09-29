@@ -1,0 +1,65 @@
+[
+    {
+        "ProductName":"Cotton Shirt",
+        "productPicture":"https://i.ibb.co/tqX5nn8/images.jpg",
+        "productDicount":"30%",
+        "ManageEmployee":"Alashin Aham",
+        "topCustomer":"Sakira rahman",
+        "employeePicture":"https://i.ibb.co/r4b02Gj/b5f07c683e370ef135ff42f39793755785-20-emily-ratajkowski-rsquare-w700.webp",
+        "CustomerPicture":"https://i.ibb.co/YWWjbrV/download.jpg"
+    },
+    {
+        "ProductName":"Light Dress",
+        "productPicture":"https://i.ibb.co/Jk2r7G1/images.jpg",
+        "productDicount":"40%",
+        "ManageEmployee":"Maria Khan",
+        "topCustomer":"Aham Khan",
+        "employeePicture":"https://i.ibb.co/x85dwfR/download.jpg",
+        "CustomerPicture":"https://i.ibb.co/68JQwmb/beautiful-any-age-kaia-gerber-2000-c22e06e4e78e4ee78118ab7d64d49bf0.jpg"
+    },
+    {
+        "ProductName":"Comforty ",
+        "productPicture":"https://i.ibb.co/pvNhWf5/images.jpg",
+        "productDicount":"20%",
+        "ManageEmployee":"Amria Rahim",
+        "topCustomer":"Kamir khan",
+        "employeePicture":"https://i.ibb.co/CvwRzN5/images.jpg",
+        "CustomerPicture":"https://i.ibb.co/MfJR6ky/images.jpg"
+    },
+    {
+        "ProductName":"Warm T-shirt",
+        "productPicture":"https://i.ibb.co/FHSgWbw/images.jpg",
+        "productDicount":"12%",
+        "ManageEmployee":"Alsa  Begum",
+        "topCustomer":"Anshuman Ali",
+        "employeePicture":"https://i.ibb.co/fqCLgxH/images.jpg",
+        "CustomerPicture":"https://i.ibb.co/q1GRDdB/images.jpg"
+    },
+    {
+        "ProductName":"Stylish wear",
+        "productPicture":"https://i.ibb.co/G0T8Njr/images.jpg",
+        "productDicount":"20%",
+        "ManageEmployee":"Anshu Khan",
+        "topCustomer":"Rahim Mia",
+        "employeePicture":"https://i.ibb.co/mzZDg3C/images.jpg",
+        "CustomerPicture":"https://i.ibb.co/mzZDg3C/images.jpg"
+    },
+    {
+        "ProductName":"Perfect wear",
+        "productPicture":"https://i.ibb.co/4F4WnfD/images.jpg",
+        "productDicount":"25%",
+        "ManageEmployee":"Rahim Sharma",
+        "topCustomer":"Prinayan Mishu",
+        "employeePicture":"https://i.ibb.co/pQhNLR6/images.jpg",
+        "CustomerPicture":"https://i.ibb.co/sm850MV/images.jpg"
+    },
+    {
+        "ProductName":"mordern cloths",
+        "productPicture":"https://i.ibb.co/DW4rWwf/images.jpg",
+        "productDicount":"18%",
+        "ManageEmployee":"Akhilu misra",
+        "topCustomer":"Ahna misu",
+        "employeePicture":"https://i.ibb.co/F7MbdKh/images.jpg",
+        "CustomerPicture":"https://i.ibb.co/tqN8wBS/images.jpg"
+    }
+]

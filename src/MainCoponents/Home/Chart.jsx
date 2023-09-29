@@ -73,7 +73,7 @@ const Chart = () => {
   return (
     <>
     
-     <div style={{ width: '100%', height: '400px' }} className=" lg:flex mt-12 relative">
+     <div style={{ width: '100%', height: '400px' }} className=" lg:flex mt-12 relative  hidden sm:block ">
      <ResponsiveContainer className='lg:w-2/3 ' style={{ width: '50%', height: '400px' }}>
         <AreaChart
           width={500}
@@ -93,7 +93,7 @@ const Chart = () => {
           <Area type="monotone" dataKey="sale" stroke="#8884d8" fill="#8884d8" />
         </AreaChart>
       </ResponsiveContainer>
-      <ResponsiveContainer className='lg:w-1/3  rounded-full ' width="50%" height="100%">
+      <ResponsiveContainer className='lg:w-1/3  rounded-full  ' width="50%" height="100%">
           <PieChart style={{height:"20rem",width:"20rem"}}>
             <Pie
               data={data2}
@@ -113,7 +113,7 @@ const Chart = () => {
      
       
         </ResponsiveContainer>
-        <div className="">
+        <div className="sm:hidden">
       <div className="absolute top-0 right-0 pl-3 pr-4 mt-12 rounded-full border border-[#DFFF00]">
       <h1 className=''>Profit</h1>
       </div>
